@@ -28,3 +28,5 @@ while exploitability decreases at every checkpoint.
 | 1600 | -0.08723 | 0.01111 |
 | 3200 | -0.08680 | 0.00782 |
 
+![convergence](convergence.png)
+
