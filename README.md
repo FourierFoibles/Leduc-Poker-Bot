@@ -7,7 +7,7 @@ Leduc poker has a deck of 6 cards, 2 x (J, Q, K), 2 betting rounds with 2 bet ma
 
 # Files
 kuhnplay.py and leducplay.py will simulate a random game of each variant of poker, respectively
-kuhnsolve.py and leducsolve.py both use counterfactual minimisation to calculate strategies in alignment with Nash equilibria for the respective variants of poker, as well as game value
+kuhnsolve.py and leducsolve.py both use counterfactual minimisation to calculate strategies in alignment with Nash equilibrium for the respective variants of poker, as well as game value
 
 # Validation
 The true game value for Leduc under this parameterisation (ante 1, bets of 2 and 4,
